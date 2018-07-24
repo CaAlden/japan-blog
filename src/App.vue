@@ -1,10 +1,11 @@
 <template>
   <div id="app">
     <NavBar :blogs="blogs"/>
-      <div class="main content">
-        <router-view></router-view>
-      </div>
+    <div style="padding-top: 28px;"></div>
+    <div class="main content">
+      <router-view></router-view>
     </div>
+  </div>
 </template>
 
 <script>
@@ -14,23 +15,32 @@ import SideBar from './components/SideBar.vue'
 export default {
   name: 'app',
   components: {
-    NavBar, SideBar
+    NavBar, SideBar,
   },
   data () {
     return {
       blogs: [
         {
           title: 'First Blog in Japan!',
-          link: '/blogs/first-in-japan'
-        }
-      ]
+          link: '/blogs/first-in-japan',
+        },
+        {
+          title: 'Ameyoko Market',
+          link: '/blogs/ameyoko-market',
+        },
+        {
+          title: 'Kichijoji',
+          link: '/blogs/kichijoji',
+        },
+      ],
     }
-  }
+  },
 }
 </script>
 
 <style>
 #app {
+  overflow-x: hidden;
   font-family: 'Open Sans', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

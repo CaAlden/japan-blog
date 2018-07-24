@@ -20,7 +20,7 @@ import HeroImage from './HeroImage.vue'
 export default {
   name: 'BlogPostBase',
   props: ['title', 'cover', 'date'],
-  components: { HeroImage }
+  components: { HeroImage },
 }
 </script>
 

@@ -30,7 +30,7 @@
 <script>
 export default {
   name: 'SideBar',
-  props: ['photos', 'status']
+  props: ['photos', 'status'],
 }
 </script>
 

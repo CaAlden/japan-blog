@@ -15,8 +15,8 @@ export default {
   methods: {
     imgUrl (path) {
       return images('./' + path)
-    }
-  }
+    },
+  },
 }
 </script>
 

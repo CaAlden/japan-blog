@@ -55,11 +55,10 @@
         My Japanese, rusty though it is, began jumping back into my brain!
         My main concerns were getting my Visa processed so I could start working and just generally surviving. The majority
         of this first week was devoted to running errands to accomplish these tasks. I needed to get an
-          <span class="more-info">Inkan
-            <span class="more-info-text">An Inkan is a personalized stamp (Mine is shown above) which is
-              used in Japan in place of a signature for most things!
-            </span>
-          </span>
+        <MoreInfo keyword="Inkan">
+          An Inkan is a personalized stamp (Mine is shown above) which is used in Japan in place of a signature
+          for most things!
+        </MoreInfo>
         and to help the legal team with the information they needed. I also needed more basic things like
         toothpaste and body wash. The brands in japan are virtually unrecognizable and I’m worried I my
         not have been using actual toothpaste for the first few brushes! I did eventually sort everything
@@ -67,7 +66,6 @@
       </p>
     </div>
     <div class="clear"></div>
-
     <h2>Kim's Visit</h2>
     <div class="col-12 blog-body">
       <p>Kim landed on the 10th at Haneda airport. Haneda is much closer to the actual city,
@@ -86,12 +84,11 @@
     </ImageCard>
     <div class="col-6 blog-body">
         <p>Uber/Lyft are basically
-          <span class="more-info">nonexistent
-            <span class="more-info-text">
-              Lyft is very regional to the US. Uber, although fairly global, does not provide their normal
-              service in Japan. Uber Black cars  (their upscale line of expensive rides) are available, but
-              they seem more expensive than the taxis that are ubiquitous.</span>
-          </span>
+          <MoreInfo keyword="nonexistent">
+            Lyft is very regional to the US. Uber, although fairly global, does not provide their normal
+            service in Japan. Uber Black cars  (their upscale line of expensive rides) are available, but
+            they seem more expensive than the taxis that are ubiquitous.
+          </MoreInfo>
          in Japan. We downloaded the
          JapanTaxi app and were quickly connected with a driver. Japanese taxis are impressively clean
          and professional; it felt more like we were being chauffeured! Driving through Tokyo at night
@@ -105,7 +102,7 @@
           staring out at this scenery! I had a few errands to run in Shibuya so we made a day of it.
           Shibuya is basically the Times Square of Tokyo. There are high rise shopping centers lining the
           streets and an iconic intersection where hundreds of people cross in many directions. After
-          visiting the statue of Hachiko, we made our way to Akihabara to explore the so called “Electric City”.
+          visiting the statue of Hachiko, we made our way to Akihabara to explore the so called “Electric Town”.
         </p>
     </div>
     <div class="clear"></div>
@@ -121,17 +118,15 @@
     </div>
     <div class="clear"></div>
     <div class="col-9 blog-body">
-      <p>Akihabara is a section of Tokyo that originally became known as the Electric City after World War II when
+      <p>Akihabara is a section of Tokyo that originally became known as the Electric Town after World War II when
         it became a major market place for household electronics. The black market also thrived in the area making
         it an entrepreneurial epicenter. Nowadays, it is a neon street, plastered wall to wall with advertisements,
         collectibles, and electronics. It has embraced
-          <span class="more-info"> Otaku
-            <span class="more-info-text">
-              An Otaku is a term normally used as a pejorative for someone who is extremely antisocial
-              and obsessed with manga and anime. They spend lots of money on collectables,
-              hence the targeting in Akihabara.
-            </span>
-          </span>
+        <MoreInfo keyword="Otaku">
+          An Otaku is a term normally used as a pejorative for someone who is extremely antisocial
+          and obsessed with manga and anime. They spend lots of money on collectables,
+          hence the targeting in Akihabara.
+        </MoreInfo>
         interests, selling everything from trading cards to statues. Kim and I explored the arcades and played a few
         rhythm games (think Dance Dance Revolution with a modern twist). Finally, we decided to try our luck at
         one of the many claw machine stores. These shops contain dozens of claw machines with various prizes. Just as
@@ -158,12 +153,9 @@
         <p>In the morning we cleaned up the room and packed. We set out on the 9:30 bullet train to Kyoto.
           We arrived a little after lunch, and after checking into our hotel, decided to wander around an
           open air market until dinner. We ate dinner at a hip local
-          <span class="more-info">
-            Izakaya
-            <span class="more-info-text">
-              An Izakaya is a Japanese style bar. They primarily serve small plates (similar to a tapas restaurant).
-            </span>
-          </span>
+          <MoreInfo keyword="Izakaya">
+            An Izakaya is a Japanese style bar. They primarily serve small plates (similar to a tapas restaurant).
+          </MoreInfo>
           called Gion Kappa
           which I would highly recommend. We tried out all sorts of dishes and were not disappointed by any of them!
           We visited the Yasaka shrine and then drank Chu-hi's (shochu highballs) by the river as the sun set.
@@ -191,24 +183,18 @@
       <p>In the morning, we visited the famous Fushimi Inari Shrine and inadvertently took the scenic route to the
         summit of Inari mountain. It was worth it for the sites of Kyoto and the uncluttered pictures under the
         shrine's
-        <span class="more-info">
-        famous gates
-          <span class="more-info-text">
-            The Fushimi Inari shrine is the primary shrine for the god Inari. Inari is the god of rice but has been
-            worshipped as a god of general business. The torii gates are donated by those who either have a
-            wish that they are hoping to come true or as a thanks for one that already has. (Source: Wikipedia)
-          </span>
-        </span>
+        <MoreInfo keyword="famous gates">
+          The Fushimi Inari shrine is the primary shrine for the god Inari. Inari is the god of rice but has been
+          worshipped as a god of general business. The torii gates are donated by those who either have a
+          wish that they are hoping to come true or as a thanks for one that already has. (Source: Wikipedia)
+        </MoreInfo>
         . After the shrine we returned to the hotel and had a much deserved ramen lunch next door.
-        After sleeping off the meal, we were ready to head out for  drinks at L'Ecamoteur Bar but first we stopped
+        After sleeping off the meal, we were ready to head out for  drinks at L'EscaMoteur Bar but first we stopped
         into a mother-daughter
-        <span class="more-info">
-          Okonomiyaki
-          <span class="more-info-text">
-            Okonomiyaki, roughly meaning, “grill what you like” is a hodgepodge dish of ingredients packed
-            into a pancake that is famous in the Osaka and Kyoto area of Japan. Needless to say, ours was excellent.
-          </span>
-        </span>
+        <MoreInfo keyword="Okonomiyaki">
+          Okonomiyaki, roughly meaning, “grill what you like” is a hodgepodge dish of ingredients packed
+          into a pancake that is famous in the Osaka and Kyoto area of Japan. Needless to say, ours was excellent.
+        </MoreInfo>
         place for dinner. The bar, however, was the real highlight of the night. This place was like an art installation
         turned into a bar and was lead by a french man playing the role of a magician. The room was dimly lit and an old
         couch sat lopsided in the rafters. Beakers and decanters lined the shelves and the cabinets were filled with
@@ -230,7 +216,7 @@
     </div>
     <div class="col-4">
       <ImageCard src="assets/blog1/the_conjurer.jpg">
-        L'Ecamoteur Bar in Kyoto
+        L'EscaMoteur Bar in Kyoto
       </ImageCard>
     </div>
     <div class="clear"></div>
@@ -276,18 +262,19 @@
 <script>
 import BlogPostBase from '@/components/BlogPostBase.vue'
 import ImageCard from '@/components/ImageCard.vue'
+import MoreInfo from '@/components/MoreInfo.vue'
 export default {
   name: 'FirstInJapanPost',
   components: {
-    BlogPostBase, ImageCard
+    BlogPostBase, ImageCard, MoreInfo,
   },
   data: function () {
     return {
       title: 'First Post in Japan!',
       date: 'July 16th 2018',
-      cover: 'assets/blog1/cover.jpg'
+      cover: 'assets/blog1/cover.jpg',
     }
-  }
+  },
 }
 </script>
 

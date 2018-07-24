@@ -14,22 +14,22 @@ export default {
   props: {
     layout: {
       default: '',
-      type: String
+      type: String,
     },
     src: {
-      type: String
-    }
+      type: String,
+    },
   },
   computed: {
     containerClass () {
       return this.layout + ' image-card'
-    }
+    },
   },
   methods: {
     imgUrl (path) {
       return images('./' + path)
-    }
-  }
+    },
+  },
 }
 </script>
 

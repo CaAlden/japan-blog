@@ -25,7 +25,7 @@
         <div class="answer">
           I’m living in Tokyo, Japan! The specific location has been changing a bit since
           my company has been paying for apartments, however, I am looking to move into a
-          permanent place soon. I will share my address here once I know for sure where I
+          permanent place soon. I will share my address once I know for sure where I
           will be.
         </div>
         <div class="question">
@@ -47,8 +47,18 @@
           horrible???”
         </div>
         <div class="answer">
-          <p>I will be working at DMM Eikaiwa working on the website for their language teaching
-            app. My official job title is Full Stack Developer (link) which basically means I will
+          <p>I will be working at DMM Eikaiwa on the website for their language teaching
+            app. My official job title
+            <MoreInfo keyword="Full Stack Developer">
+              Nowadays, companies hire entire teams to build websites for them. The general wisdom is to divide
+              websites in half. One half is the server which is basically the computer on the company's end that
+              is processing all of the information. It stores the data you give it and can do interesting things
+              like compare it to other users or data sets. The other half is the "Frontend" which is the website
+              the user sees. This half is focused on helping customers interact with the company. Where the server-side
+              is data science, the frontend is seen as more of an art; the art of display information to people. A
+              full stack developer is someone who works on both the server and the frontend.
+            </MoreInfo>
+            which basically means I will
             get to work on all parts of their website where they need me. This is exciting for me
             because my web-design skills are probably my weakest in terms of Computer Science topics.
             For a long time I have been looking for an opportunity to grow in this area and Full
@@ -57,7 +67,7 @@
           <p>Japanese companies are traditionally horrible, with long hours of overtime expected
             and a tradition of boring and tedious work environments. My team, however, is entirely
             expats and we are basically separate from the rest of the company. Because of this, the
-            team has a western style work environment with flex time, remote work, and NO OVERTIME
+            team has a western style work environment with flex time, remote work, and best of all no overtime
             expectations. I also will not be expected to speak Japanese at work (English is the primary
             language), although there are plenty of people there who do.
           </p>
@@ -71,7 +81,8 @@
         </div>
         <div class="answer">
           Hopefully some sort of fancy map thing will be coming soon to this blog, in the
-          meantime that information should be in the sidebar!
+          meantime that information should be in the sidebar (which I'm aware also doesn't exist yet but which is much
+          closer to being a reality)!
         </div>
         <div class="question">
           Q: “Where are you going next?”
@@ -87,9 +98,10 @@
 
 <script>
 import HeroImage from '@/components/HeroImage.vue'
+import MoreInfo from '@/components/MoreInfo.vue'
 export default {
   name: 'Hello',
-  components: { HeroImage }
+  components: { HeroImage, MoreInfo },
 }
 </script>
 
